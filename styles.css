@@ -1199,6 +1199,8 @@ html {
   overflow: hidden;
   height: 100%; }
 
+  
+
 body {
   position: relative;
   background-color: #7e8c63;
@@ -1209,6 +1211,7 @@ body {
   font-size: 16px;
   line-height: 24px;
   color: #333;
+  outline: none !important;
   overflow-y: auto;
   overflow-x: hidden;
   height: 100%; }
